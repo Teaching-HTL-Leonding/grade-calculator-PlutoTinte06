@@ -1,0 +1,15 @@
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\bin\Debug\net7.0\Übung Grade Calculator.exe
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\bin\Debug\net7.0\Übung Grade Calculator.deps.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\bin\Debug\net7.0\Übung Grade Calculator.runtimeconfig.json
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\bin\Debug\net7.0\Übung Grade Calculator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\bin\Debug\net7.0\Übung Grade Calculator.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\Übung Grade Calculator.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\Übung Grade Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\Übung Grade Calculator.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\Übung Grade Calculator.AssemblyInfo.cs
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\Übung Grade Calculator.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\Übung Grade Calculator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\refint\Übung Grade Calculator.dll
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\Übung Grade Calculator.pdb
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\Übung Grade Calculator.genruntimeconfig.cache
+C:\Users\david\OneDrive\Dokumente\HTL\Programmieren\Übung Grade Calculator\obj\Debug\net7.0\ref\Übung Grade Calculator.dll
